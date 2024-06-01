@@ -13,3 +13,4 @@ Create an weather widget that shows current weather conditions for any location.
 **BONUS** - Ensure the widget is responsive and can fit into various website layouts.
 
 > Deadline => 3rd June 2024 11:59 P.M
+# Week 01
